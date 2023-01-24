@@ -1,4 +1,4 @@
-# basic-php-experience
+# Basic PHP Experience
 
 ## Description
 A repository containing the results of learning basic PHP
